@@ -1,0 +1,86 @@
+{
+    "os": "Linux-5.15.68.1-microsoft-standard-WSL2-x86_64-with-glibc2.29",
+    "python": "3.8.10",
+    "heartbeatAt": "2022-11-09T06:44:49.542215",
+    "startedAt": "2022-11-09T06:44:48.916385",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "artifact",
+        "put",
+        "--name",
+        "exercise_4/genres_mod.parquet",
+        "--type",
+        "raw_data",
+        "--description",
+        "A modified verstion of the songs dataset",
+        "genres_mod.parquet"
+    ],
+    "state": "running",
+    "program": "/home/smp/.local/bin/wandb",
+    "git": {
+        "remote": "git@github.com:sampovirkkula/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "smp@dainpc.localdomain",
+    "root": "/home/smp/personal/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "dainpc",
+    "username": "smp",
+    "executable": "/usr/bin/python3",
+    "cpu_count": 4,
+    "cpu_count_logical": 8,
+    "cpu_freq": {
+        "current": 1800.0040000000004,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1800.004,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 250.92389297485352,
+        "used": 75.02624893188477
+    },
+    "memory": {
+        "total": 7.636688232421875
+    }
+}

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/smp/personal/cd0581-building-a-reproducible-model-workflow-exercises/lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/mlruns/0/d97fec61a3a342a39f34a632820af695/artifacts
+end_time: 1667927739147
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: d97fec61a3a342a39f34a632820af695
+run_uuid: d97fec61a3a342a39f34a632820af695
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1667927015593
+status: 3
+tags: []
+user_id: smp

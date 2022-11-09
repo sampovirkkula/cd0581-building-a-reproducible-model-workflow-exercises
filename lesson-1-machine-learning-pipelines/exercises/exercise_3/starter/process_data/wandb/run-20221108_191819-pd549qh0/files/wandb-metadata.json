@@ -1,0 +1,31 @@
+{
+    "os": "Linux-5.15.68.1-microsoft-standard-WSL2-x86_64-with-glibc2.10",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-11-08T17:18:23.063610",
+    "startedAt": "2022-11-08T17:18:19.466232",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [
+        "--input_artifact",
+        "iris.csv:latest",
+        "--artifact_name",
+        "cleaned_data.csv",
+        "--artifact_type",
+        "processed_data",
+        "--artifact_description",
+        "Cleaned data"
+    ],
+    "state": "running",
+    "program": "run.py",
+    "codePath": "lesson-1-machine-learning-pipelines/exercises/exercise_3/starter/process_data/run.py",
+    "git": {
+        "remote": "git@github.com:sampovirkkula/cd0581-building-a-reproducible-model-workflow-exercises.git",
+        "commit": "f8ceef1ef5f8d5e8ac5995dbf09d0c6d8be15827"
+    },
+    "email": "smp@dainpc.localdomain",
+    "root": "/home/smp/personal/cd0581-building-a-reproducible-model-workflow-exercises",
+    "host": "dainpc",
+    "username": "smp",
+    "executable": "/home/smp/miniconda3/envs/mlflow-2aae9d11268b84a7df7431b77b47f40bf211fb9c/bin/python"
+}
